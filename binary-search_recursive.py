@@ -1,4 +1,4 @@
-# Python3 Program for recursive binary search. Returns index of x in arr if present, else -1
+# Program for recursive binary search which returns index of x in arr if present, else -1
 def binarySearch(arr, left, right, key):
     # Check base case
     if right >= left:
